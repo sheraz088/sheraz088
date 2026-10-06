@@ -211,7 +211,7 @@ If you're working on something interesting, feel free to reach out.
 | 💼 LinkedIn  | [Muhammad Sheraz Ajmal](https://www.linkedin.com/in/sheraz-dev)        |
 | 🐙 GitHub    | [sheraz088](https://github.com/sheraz088) |
 | 📧 Email     | sheraz.desk@gmail.com                                        |
-<!--| 🌐 Portfolio |                                 | -->
+| 🌐 Portfolio | https://sherazz.netlify.app                                |
 
 ---
 
