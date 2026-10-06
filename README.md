@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Sheraz Ajmal
 
-### `Frontend Developer` • `AI/ML Enthusiast` • `Full-Stack Developer`
+### `Full-Stack Developer` • `AI & Machine Learning Enthusiast` 
 
 Building practical web applications, AI-powered tools, and software that solve real-world problems.
 
@@ -80,7 +80,7 @@ const sheraz = {
 </p>
 
 ---
-
+<!--
 ## 🏗️ Featured Projects
 
 ### 🤖 EduQuizAI
@@ -141,14 +141,15 @@ const sheraz = {
 A clean dealership interface designed to showcase vehicles, provide information to customers, and present a professional automotive business presence.
 
 ---
+-->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sheraz088&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz088&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
 </div>
 
@@ -208,9 +209,9 @@ If you're working on something interesting, feel free to reach out.
 | Platform     | Link                                              |
 | ------------ | ------------------------------------------------- |
 | 💼 LinkedIn  | [Muhammad Sheraz Ajmal](https://www.linkedin.com/in/sheraz-dev)        |
-| 🐙 GitHub    | [YOUR_USERNAME](https://github.com/sheraz088) |
+| 🐙 GitHub    | [sheraz088](https://github.com/sheraz088) |
 | 📧 Email     | sheraz.desk@gmail.com                                        |
-| 🌐 Portfolio |                                 |
+<!--| 🌐 Portfolio |                                 | -->
 
 ---
 
