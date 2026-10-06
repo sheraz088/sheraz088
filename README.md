@@ -159,7 +159,7 @@ A clean dealership interface designed to showcase vehicles, provide information 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=sheraz088&hide_border=true&theme=transparent" />
 
 </div>
 
