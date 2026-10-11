@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # 👋 Hi, I'm Muhammad Sheraz Ajmal
 
 ### `Full-Stack Developer` • `AI & Machine Learning Enthusiast` 
