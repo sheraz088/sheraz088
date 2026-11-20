@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Muhammad Sheraz Ajmal
 
-### `Full-Stack Developer` • `AI & Machine Learning Enthusiast` 
+### `Full-Stack Web Developer` • `AI & Machine Learning Enthusiast` 
 
 Building practical web applications, AI-powered tools, and software that solve real-world problems.
 
